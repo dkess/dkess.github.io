@@ -1,5 +1,7 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
+	margin-left: 2em;
+	max-width: 800px;
 }
 
 img {
@@ -13,11 +15,6 @@ img {
 
 h1 {
 	margin-bottom: 0.5em;
-}
-
-#container {
-	margin-left: 2em;
-	max-width: 800px;
 }
 
 #summary {
