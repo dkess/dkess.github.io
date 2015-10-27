@@ -1,7 +1,27 @@
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 	margin-left: 2em;
+	margin-right: 2em;
 	max-width: 800px;
+}
+
+@media screen and (max-width: 360px) {
+	body {
+		margin-left: 1em;
+		margin-right: 1em;
+	}
+
+	#words {
+		font-size: smaller;
+	}
+
+	#thinglist {
+		padding-left: 20px;
+	}
+}
+
+#buttons {
+	display: inline-block;
 }
 
 img {
