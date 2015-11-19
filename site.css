@@ -5,7 +5,7 @@ body {
 	max-width: 800px;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 460px) {
 	body {
 		margin-left: 1em;
 		margin-right: 1em;
