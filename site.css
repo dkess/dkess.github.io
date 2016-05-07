@@ -5,21 +5,6 @@ body {
 	max-width: 800px;
 }
 
-@media screen and (max-width: 460px) {
-	body {
-		margin-left: 1em;
-		margin-right: 1em;
-	}
-
-	#words {
-		font-size: smaller;
-	}
-
-	#thinglist {
-		padding-left: 20px;
-	}
-}
-
 #buttons {
 	display: inline-block;
 }
@@ -50,6 +35,32 @@ h1 {
 
 #thinglist li {
 	margin-bottom: 0.4em;
+}
+
+@media screen and (max-width: 460px) {
+	body {
+		margin-left: 1em;
+		margin-right: 1em;
+	}
+
+	#words {
+		font-size: smaller;
+	}
+
+	#thinglist {
+		padding-left: 20px;
+	}
+	
+	img {
+	  width: 27px;
+	  height: 27px;
+	  margin-right: 4px;
+	  margin-left: 6px;
+	}
+	
+	h1 {
+	  margin-bottom: 0.3em;
+	}
 }
 
 a:hover, a:visited, a:link, a:active {
