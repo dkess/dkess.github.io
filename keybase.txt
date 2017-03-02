@@ -1,0 +1,51 @@
+https://keybase.io/dkess
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dkess.me
+  * I am dkess (https://keybase.io/dkess) on keybase.
+  * I have a public key ASD6tPuAwA-qOEpyjybvyxgjIuuvpwYsh8hKPhZjA9ZrZwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120fab4fb80c00faa384a728f26efcb182322ebafa7062c87c84a3e166303d66b670a",
+            "host": "keybase.io",
+            "kid": "0120fab4fb80c00faa384a728f26efcb182322ebafa7062c87c84a3e166303d66b670a",
+            "uid": "b0b158858780b67f7c77539772c0d819",
+            "username": "dkess"
+        },
+        "service": {
+            "hostname": "dkess.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1486249626,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1486249469,
+        "hash": "a3ac03d1c45348d7fb047cf5e07ec604266adbb8a0e3a84cf05e9cd0922d16e82cd884079aba0c3271dba9d8e14b8fcd54427dc43a813877d4b90b17eeb5af6b",
+        "seqno": 835668
+    },
+    "prev": "a323582eeff650e30279fb6e88c8568aa48df790b83d872a5f3cde879a95ccfa",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+rT7gMAPqjhKco8m78sYIyLrr6cGLIfISj4WYwPWa2cKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmFiNGZiODBjMDBmYWEzODRhNzI4ZjI2ZWZjYjE4MjMyMmViYWZhNzA2MmM4N2M4NGEzZTE2NjMwM2Q2NmI2NzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmFiNGZiODBjMDBmYWEzODRhNzI4ZjI2ZWZjYjE4MjMyMmViYWZhNzA2MmM4N2M4NGEzZTE2NjMwM2Q2NmI2NzBhIiwidWlkIjoiYjBiMTU4ODU4NzgwYjY3ZjdjNzc1Mzk3NzJjMGQ4MTkiLCJ1c2VybmFtZSI6ImRrZXNzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJka2Vzcy5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg2MjQ5NjI2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODYyNDk0NjksImhhc2giOiJhM2FjMDNkMWM0NTM0OGQ3ZmIwNDdjZjVlMDdlYzYwNDI2NmFkYmI4YTBlM2E4NGNmMDVlOWNkMDkyMmQxNmU4MmNkODg0MDc5YWJhMGMzMjcxZGJhOWQ4ZTE0YjhmY2Q1NDQyN2RjNDNhODEzODc3ZDRiOTBiMTdlZWI1YWY2YiIsInNlcW5vIjo4MzU2Njh9LCJwcmV2IjoiYTMyMzU4MmVlZmY2NTBlMzAyNzlmYjZlODhjODU2OGFhNDhkZjc5MGI4M2Q4NzJhNWYzY2RlODc5YTk1Y2NmYSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA/GCq0cWcQ9D7VHZGscZRUlWFFBjHeIoS4CweGlj7ntcXTH+mNeU1QIMEFHHy1jb9O3HMvXk7Cn11+xOzdxGAMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg+GXs9XpaURrCPiSFrOVdHNuhnD3E6Evyrm8NsPzANm6jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dkess
